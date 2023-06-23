@@ -1,0 +1,7 @@
+.savedNotes{
+    background-color: grey;
+    box-sizing: border-box;
+    border: 2px solid gray;
+    margin: 10px;
+    height: 30vh;
+}
